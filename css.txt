@@ -1,0 +1,27 @@
+h1{
+color: blue;
+background-color: white;
+}
+p{
+color: black;
+background-color: white;
+}
+h2{
+background-color: red;
+}
+h3{
+background-color: yellow;
+}
+h4{
+background-color: green;
+}
+strong{
+background-color: pink;
+}
+em{
+background-color: orange;
+}
+button{
+color: white
+background-color: blue
+}

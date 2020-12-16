@@ -1,0 +1,29 @@
+<!doctype html>
+<html>
+<head>
+<link href="style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<h1>Unione Massimiliana</h1>
+<br>
+<p>Benvenuto nel sito ufficiale dell'Unione Massimiliana!</p>
+<br>
+<img src="https://www.nuovaincisoria.com/363-large_default/bandiera-italiana-poliestere-nautico.jpg" alt="Russia">
+<br>
+<img src="http://www.leggimionline.it/wp-content/uploads/2015/07/Burundi-Bandiera-1024x640.jpg alt="Burundi">
+<br>
+<h2><em>Sindaco dell'Unione: Putin</em></h2>
+<br>
+<h2><strong>Vice-sindaci dell'Unione: Jonnybob e FuriaLegendS</strong></h2>
+<br>
+<h2>Capo dell'Economia: daviq</h2>
+<br>
+<h2>Papa: Papa Giovanni Karol</h2>
+<br>
+<h3>Cittadini Massimiliani: supreme, angy, big chungus.</h3>
+<button class="GFC"
+onclick="https://discord.com/channels/770299470474379314/770299470474379319";>
+Entra nel nostro Discord!
+</button>
+</body>
+</html>
